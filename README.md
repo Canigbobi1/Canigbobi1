@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Canigbobi1
-- 👀 I’m interested in Data Science and Analysis
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on projects relating to Data Science and Analysis
-- 📫 How to reach me at canigbobi@gmail.com
+- 👋 Hi, I’m Anigbobi Churchill
+- 👀 In love with codes
+- 🌱 Data Analyst, Developer, Editor
+- 🗣️ Excel, PowerBi, Tableau, Python, SQL, R, Html, Css, PHP, Instructor
+- 💞️ Looking to collaborate on projects relating to Data Science and Analysis
+- 📫 Reach me at canigbobi@gmail.com
 
 <!---
 Canigbobi1/Canigbobi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
